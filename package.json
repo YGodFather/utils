@@ -1,5 +1,5 @@
 {
-  "name": "fd-utils",
+  "name": "@yrr/fdutils",
   "version": "0.1.0",
   "description": "fd-utils",
   "main": "src/index.js",
