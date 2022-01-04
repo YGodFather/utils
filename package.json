@@ -1,0 +1,17 @@
+{
+  "name": "fd-utils",
+  "version": "0.1.0",
+  "description": "fd-utils",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "jest"
+  },
+  "author": "varus",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "rollup": "^2.62.0",
+    "rollup-jest": "^1.1.3"
+  }
+}
